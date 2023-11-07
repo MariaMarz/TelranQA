@@ -1,1 +1,2 @@
 # TelranQA
+- Andrei Bakhtinov
